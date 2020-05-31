@@ -1,0 +1,4 @@
+;(x) => error
+;(setf x 4) => 4
+;(x); => 4
+setf "symbol" "variable"; for variables setting
